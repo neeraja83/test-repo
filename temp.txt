@@ -1,0 +1,12 @@
+> ng build
+
+
+> git init
+> git add .
+> git commit -m "First commit"
+
+> git remote add origin https://neeraja83.github.io/TempMonitor/
+
+> git push origin master
+
+> ng build --base-href "https://neeraja83.github.io/TempMonitor/"
